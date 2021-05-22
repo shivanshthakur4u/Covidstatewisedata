@@ -2,9 +2,7 @@
   "name": "react",
   "version": "1.0.0",
   "description": "React example starter project",
-   "engines": {
-    "node": "14.16.1"
-  },
+  
   
   "keywords": ["react", "starter"],
   "main": "src/index.js",
