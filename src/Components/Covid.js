@@ -1,6 +1,5 @@
 import { useEffect, useState } from "react";
 import "../styles.css";
-import "./Live.css";
 const Covid = () => {
   const date = new Date().getFullYear();
   const [data, setData] = useState([]);
